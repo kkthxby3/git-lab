@@ -7,12 +7,10 @@ git-lab
 + Luke Shiffer
 + shiffer@usc.edu
 + kkthxby3
-+ 
 ###Bob:
 + Michael Goulis
 + mgoulis@usc.edu
 + mgoulis
-+ 
 
 ![alt tag](http://octodex.github.com/images/daftpunktocat-thomas.gif)
 
