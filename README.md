@@ -6,7 +6,9 @@ git-lab
 ###Alice:
 + Luke Shiffer
 + shiffer@usc.edu
-+ kkthxby3
++ kkthxby3 
+ 
+ 
 ###Bob:
 + Michael Goulis
 + mgoulis@usc.edu
